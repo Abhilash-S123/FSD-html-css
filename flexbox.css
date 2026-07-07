@@ -1,0 +1,27 @@
+.card-1 {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(241, 76, 76);
+}
+
+.card-2 {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(184, 124, 124);
+}
+
+.card-3 {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(31, 4, 4);
+}
+
+.home {
+    display: flex;
+    /* flex-direction: column; */
+    background-color: rgb(231, 231, 165);
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    gap: 50px;
+}
